@@ -68,3 +68,6 @@ Checking another topic, creating new and make it public
 
 •	The framework generates allure-results after each test run.
 •	Reports can be found in the target/reports folder.            # Wikipedia
+
+
+run: allure serve
