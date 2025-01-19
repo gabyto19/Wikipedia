@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="ApiTestSuite" >
+    <listeners>
+        <listener class-name="org.wikipedia.listeners.RetryListener"/>
+    </listeners>
+
+    <test name="ApiTests">
+        <classes>
+            <class name="org.wikipedia.LoginLogoutTest"/>
+            <class name="org.wikipedia.SettingTest"/>
+            <class name="org.wikipedia.TopicTest"/>
+        </classes>
+    </test>
+</suite>
