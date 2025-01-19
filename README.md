@@ -41,7 +41,7 @@ Checking another topic, creating new and make it public
 ## **⚙️ Setup Instructions**
 
 
-1.	Clone the Repository  https://github.com/your-username/wikipedia-test-automation.git
+1.	Clone the Repository  https://github.com/gabyto19/Wikipedia.git
 2.  git clone.
 3.  cd wikipedia-test-automation.
 4.  Install Dependencies
@@ -67,4 +67,4 @@ Checking another topic, creating new and make it public
 ## **📊 Reporting**
 
 •	The framework generates allure-results after each test run.
-•	Reports can be found in the target/reports folder.            
+•	Reports can be found in the target/reports folder.            # Wikipedia
